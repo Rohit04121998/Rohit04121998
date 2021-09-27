@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Link to my GitLab Account: [Here](https://gitlab.com/kayvanshah1)
+
+![Kayvan Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
