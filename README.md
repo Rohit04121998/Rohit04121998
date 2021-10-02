@@ -3,13 +3,13 @@
 
 ### My GitHub Stats
 <div style="display: flex; align: center;">
-     <img align="center" width="49%"
-          style="margin: 10px;"
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
           src="https://github-readme-streak-stats.herokuapp.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
           alt="kayvanshah" />
-     <img align="center" width="49%"
-          style="margin: 10px;"
-          src="https://github-readme-stats.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"            
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
           alt="kayvanshah" />
 </div>
 
