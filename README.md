@@ -1,20 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kayvan Shah</h1>
+<h3 align="center">A passionate Data Engineer | ML/AI enthusiast</h3>
 
-<!--
-**KayvanShah1/KayvanShah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My GitHub Stats
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="kayvanshah" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="kayvanshah" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Link to my GitLab Account: [Here](https://gitlab.com/kayvanshah1)
-
-![Kayvan Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+Visit my [GitLab Account](https://gitlab.com/kayvanshah1)
