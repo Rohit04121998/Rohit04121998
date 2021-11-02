@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kayvan Shah</h1>
-<h3 align="center">A passionate Data Engineer | ML/AI enthusiast</h3>
+<h3 align="center">A passionate learner | ML/AI enthusiast</h3>
 
 ### My GitHub Stats
 <div style="display: flex; align: center;">
