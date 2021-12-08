@@ -15,4 +15,10 @@
 
 <br/>
 
-Visit my [GitLab Account](https://gitlab.com/kayvanshah1)
+### Kaggle Profile
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kayvanshah/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kayvanshah/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kayvanshah/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kayvanshah/discussion/light)
+
+### [GitLab Account](https://gitlab.com/kayvanshah1)
