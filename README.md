@@ -69,13 +69,6 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kayvanshah/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kayvanshah/discussion/light) -->
      
-##### [GitLab Account](https://gitlab.com/kayvanshah1)
-
-<p>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
-</p>
-
 ### :milky_way: Find me in the 'verse
 <p>
      <a href="https://github.com/KayvanShah1" target="_blank">
@@ -90,4 +83,10 @@
      <a href="https://www.kaggle.com/kayvanshah" target="_blank">
         <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=whitee" />
      </a>
+</p>
+
+<!-- GitHub profile viewers and visitors -->
+<p>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
 </p>
