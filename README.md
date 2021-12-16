@@ -76,13 +76,16 @@
 
 ### :milky_way: Find me in the 'verse
 <p>
-    <a href="https://github.com/KayvanShah1" target="_blank">
-        <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://gitlab.com/kayvanshah1" target="_blank">
-        <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
-        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+     <a href="https://github.com/KayvanShah1" target="_blank">
+          <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+     </a>
+     <a href="https://gitlab.com/kayvanshah1" target="_blank">
+          <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+     </a>
+     <a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
+          <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+     </a>
+     <a href="https://www.kaggle.com/kayvanshah" target="_blank">
+        <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=whitee" />
+     </a>
 </p>
