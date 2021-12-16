@@ -49,8 +49,6 @@
      <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-black?logo=google-chrome&amp;style=plastic" /> 
      <img alt="brave" src="https://img.shields.io/badge/Brave-black?logo=brave&amp;style=plastic" /> 
      <img alt="git" src="https://img.shields.io/badge/Git-black?logo=git&amp;style=plastic" /> 
-     <img alt="github" src="https://img.shields.io/badge/GitHub-black?logo=github&amp;style=plastic" />
-     <img alt="gitlab" src="https://img.shields.io/badge/GitLab-black?logo=gitlab&amp;style=plastic" />
      <img alt="docker" src="https://img.shields.io/badge/Docker-black?logo=docker&amp;style=plastic" /> 
      <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&amp;style=plastic" />
      <img alt="terraform" src="https://img.shields.io/badge/Terraform-black?logo=terraform&amp;style=plastic" />
