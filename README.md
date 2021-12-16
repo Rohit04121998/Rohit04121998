@@ -58,6 +58,8 @@
      <img alt="google-cloud-platform" src="https://img.shields.io/badge/GCP-black?logo=google-cloud&amp;style=plastic" /> 
      <img alt="amazon-aws" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;style=plastic" /> 
      <img alt="heroku" src="https://img.shields.io/badge/Heroku-black?logo=heroku&amp;style=plastic" /> 
+     <img alt="jupyter" src="https://img.shields.io/badge/Jupyter Notebook-black?logo=jupyter&amp;style=plastic" />
+     <img alt="googlecolab" src="https://img.shields.io/badge/Google Colab-black?logo=googlecolab&amp;style=plastic" />
 </p>
 
 <!-- 
