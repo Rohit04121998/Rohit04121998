@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayvan Shah</h1>
 <h3 align="center">A passionate learner | ML/AI enthusiast</h3>
 
-### My GitHub Stats
+### 📈 My GitHub Stats
 <div style="display: flex; align: center;">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
@@ -32,6 +32,7 @@
      <img alt="folium" src="https://img.shields.io/badge/Folium-black?logo=folium&amp;style=plastic" />
      <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;style=plastic" /> 
      <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&amp;style=plastic" />
+     <img alt="opencv" src="https://img.shields.io/badge/OpenCV-black?logo=opencv&amp;style=plastic" />
      <img alt="pytorch" src="https://img.shields.io/badge/Pytorch-black?logo=pytorch&amp;style=plastic" /> 
      <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-black?logo=fastapi&amp;style=plastic" />
      <img alt="selenium" src="https://img.shields.io/badge/Selenium-black?logo=selenium&amp;style=plastic" /> 
@@ -43,6 +44,7 @@
      <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&amp;style=plastic" />
      <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&amp;style=plastic" />
      <img alt="elasticsearch" src="https://img.shields.io/badge/Elasticsearch-black?logo=elasticsearch&amp;style=plastic" />
+     <img alt="kibana" src="https://img.shields.io/badge/Kibana-black?logo=kibana&amp;style=plastic" />
      <img alt="vscode" src="https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&amp;style=plastic" /> 
      <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-black?logo=google-chrome&amp;style=plastic" /> 
      <img alt="brave" src="https://img.shields.io/badge/Brave-black?logo=brave&amp;style=plastic" /> 
@@ -66,3 +68,18 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kayvanshah/discussion/light) -->
      
 ##### [GitLab Account](https://gitlab.com/kayvanshah1)
+
+<p>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
+</p>
+
+### :milky_way: Find me in the 'verse
+<p>
+    <a href="https://github.com/vidhi-mody" target="_blank">
+        <img alt="github" src="https://img.shields.io/github/followers/KayvanShah1?label=GitHub&amp;style=social" />
+    </a>
+     <a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
+        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
+    </a>
+</p>
