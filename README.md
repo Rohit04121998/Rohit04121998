@@ -76,10 +76,13 @@
 
 ### :milky_way: Find me in the 'verse
 <p>
-    <a href="https://github.com/vidhi-mody" target="_blank">
-        <img alt="github" src="https://img.shields.io/github/followers/KayvanShah1?label=GitHub&amp;style=social" />
+    <a href="https://github.com/KayvanShah1" target="_blank">
+        <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-     <a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
-        <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
+    <a href="https://gitlab.com/kayvanshah1" target="_blank">
+        <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
+        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
