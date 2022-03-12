@@ -1,0 +1,57 @@
+<h1 align="center">Hi 👋, I'm <%= meta.firstName %> <%= meta.role %></h1>
+<h3 align="center"><%= meta.about %></h3>
+
+### 📈 My GitHub Stats
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
+          alt="kayvanshah" />
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="kayvanshah" />
+</div>
+
+<br/>
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
+          alt="languages" />
+</div>
+
+<!-- TECHNOLOGIES -->
+<h3>:zap: Technologies</h3>
+
+<p>
+    <% for(const [name, logo] of Object.entries(technologies)) { %><img alt="<%= name %>" src="<%= logo %>" /> <% } %>
+</p>
+
+<!-- SOCIAL -->
+<h3>:milky_way: Find me in the 'verse</h3>
+
+<p>
+    <% for(const { name, url, logo } of social) { %><a href="<%= url %>" target="_blank">
+        <img alt="<%= name %>" src="<%= logo %>" />
+    </a><% } %>
+</p>
+
+<hr />
+
+<!-- GitHub profile viewers and visitors -->
+<p>
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
+</p>
+
+<!-- FOOTER -->
+<!--START_SECTION:waka-->
+```text
+No activity tracked
+```
+<!--END_SECTION:waka-->
+<p align="center">
+    This <i>README</i> file is generated <b>every 24 hours</b>!</br>
+    Last refresh: <%= lastRunOn %><br />
+</p>

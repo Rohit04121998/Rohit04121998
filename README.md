@@ -85,8 +85,8 @@
 
 <!-- GitHub profile viewers and visitors -->
 <p>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
+     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
+     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
 </p>
 
 <!--START_SECTION:waka-->
