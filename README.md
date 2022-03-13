@@ -61,5 +61,10 @@ No activity tracked
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2022-03-12T15:26:02.581Z<br />
+    Last refresh: 2022-03-13T01:05:55.104Z<br />
+</p>
+<p align="center">
+    <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/>
 </p>
