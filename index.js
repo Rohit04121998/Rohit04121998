@@ -60,7 +60,7 @@ if (process.env.NODE_ENV === 'local') {
     const htmlString = await ejs.renderFile('index.ejs', {
       ...propertiesObj,
       posts,
-      lastRunOn: new Date().toISOString()
+      lastRunOn: new Date().toTimeString()
     })
   
     await fs.writeFile('./README.md', htmlString, { encoding: 'utf-8' })
