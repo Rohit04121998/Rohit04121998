@@ -29,7 +29,7 @@
 </p>
 
 <!-- SOCIAL -->
-<h3>:milky_way: Find me in the 'verse</h3>
+<h3>:milky_way: Find me</h3>
 
 <p>
     <a href="https://github.com/KayvanShah1" target="_blank">
@@ -61,10 +61,11 @@ No activity tracked
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2022-03-16T01:11:01.265Z<br />
+    Last refresh: 01:08:59 GMT+0000 (Coordinated Universal Time)<br />
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
     <img alt="Stars" src="https://img.shields.io/github/stars/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/>
-</p>
+</p> -->
+
