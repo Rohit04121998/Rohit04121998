@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kayvan Data Engineer</h1>
+<h1 align="center">Hi 👋, I'm Kayvan</h1>
+<h2 align="center">Data Engineer</h2>
 <h3 align="center">A passionate learner | ML/AI enthusiast</h3>
 
 ### 📈 My GitHub Stats
@@ -61,7 +62,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:10:44 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 18:30:00 GMT+0000 (Coordinated Universal Time)<br />
 </p>
 <!-- <p align="center">
     <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
