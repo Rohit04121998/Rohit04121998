@@ -9,6 +9,9 @@ city = "Mumbai"
 country = "India"
 logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
 
+[meta.description]
+
+
 [[social]]
 name = "github"
 url = "https://github.com/KayvanShah1"
