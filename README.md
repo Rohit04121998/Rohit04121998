@@ -32,7 +32,7 @@
 <!-- SOCIAL -->
 <h3>:milky_way: Find me</h3>
 
-<p>
+<p align="center">
     <a href="https://github.com/KayvanShah1" target="_blank">
         <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
     </a><a href="https://gitlab.com/kayvanshah1" target="_blank">
@@ -47,22 +47,20 @@
 <hr />
 
 <!-- GitHub profile viewers and visitors -->
-<p>
+<p align="center">
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
 </p>
 
 <!-- FOOTER -->
 <!--START_SECTION:waka-->
-
 ```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:59:21 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 01:50:38 GMT+0000 (Coordinated Universal Time)<br />
 </p>
 <!-- <p align="center">
     <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
