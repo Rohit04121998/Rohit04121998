@@ -54,9 +54,11 @@
 
 <!-- FOOTER -->
 <!--START_SECTION:waka-->
+
 ```text
 No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
