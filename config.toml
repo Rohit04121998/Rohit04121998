@@ -1,15 +1,15 @@
 [meta]
 firstName = "Kayvan"
 lastName = "Shah"
-role = "Data Engineer"
-about = """A passionate learner | ML/AI enthusiast"""
+role = "Data Engineer | AI, Data Science & Cloud Computing enthusiast"
+about = """I am passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.
+
+I am also a graduate student at the University of Southern California pursuing a Master's in Applied Data Science."""
 
 [meta.location]
-city = "Mumbai"
-country = "India"
+city = "Los Angeles, California"
+country = "United States"
 logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
-
-[meta.description]
 
 
 [[social]]
