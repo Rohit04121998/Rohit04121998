@@ -12,7 +12,7 @@ I am also a graduate student at the University of Southern California pursuing a
           alt="kayvanshah" />
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
           alt="kayvanshah" />
 </div>
 
@@ -20,7 +20,7 @@ I am also a graduate student at the University of Southern California pursuing a
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
           alt="languages" />
 </div>
 
@@ -56,15 +56,13 @@ I am also a graduate student at the University of Southern California pursuing a
 
 <!-- FOOTER -->
 <!--START_SECTION:waka-->
-
 ```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:20:54 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 01:14:03 GMT+0000 (Coordinated Universal Time)<br />
 </p>
 <!-- <p align="center">
     <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
