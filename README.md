@@ -1,4 +1,4 @@
-![Header](static/github-header-image.png)
+![Header](static/github-header-image-old.png)
 <!-- <h1 align="center">Hi 👋, I'm Kayvan</h1>
 <h2 align="center">Data Engineer | AI, Data Science &amp; Cloud Computing enthusiast</h2> -->
 <h4>I am passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.
@@ -57,15 +57,13 @@ I am also a graduate student at the University of Southern California pursuing a
 
 <!-- FOOTER -->
 <!--START_SECTION:waka-->
-
-```txt
+```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:01:30 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 00:51:28 GMT+0000 (Coordinated Universal Time)<br />
 </p>
 <!-- <p align="center">
     <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
