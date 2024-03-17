@@ -1,4 +1,4 @@
-![Header](static/github-header-image-old.png)
+![Header](static/github-header-image.png)
 <!-- <h1 align="center">Hi 👋, I'm Kayvan</h1>
 <h2 align="center">Data Engineer | AI, Data Science &amp; Cloud Computing enthusiast</h2> -->
 <h4>I am passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.
@@ -9,11 +9,11 @@ I am also a graduate student at the University of Southern California pursuing a
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit04121998&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
           alt="kayvanshah" />
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit04121998&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
           alt="kayvanshah" />
 </div>
 
@@ -21,7 +21,7 @@ I am also a graduate student at the University of Southern California pursuing a
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit04121998&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
           alt="languages" />
 </div>
 
@@ -51,25 +51,23 @@ I am also a graduate student at the University of Southern California pursuing a
 
 <!-- GitHub profile viewers and visitors -->
 <p align="center">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Rohit04121998&color=blue"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Rohit04121998"/>
 </p>
 
 <!-- FOOTER -->
 <!--START_SECTION:waka-->
-
-```txt
+```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:00:41 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 00:43:25 GMT+0000 (Coordinated Universal Time)<br />
 </p>
 <!-- <p align="center">
-    <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
-    <img alt="Stars" src="https://img.shields.io/github/stars/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/> 
-    <img alt="Forks" src="https://img.shields.io/github/forks/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/>
+    <img src="https://github.com/Rohit04121998/Rohit04121998/workflows/README%20build/badge.svg" /> 
+    <img alt="Stars" src="https://img.shields.io/github/stars/Rohit04121998/Rohit04121998?style=flat-square&labelColor=343b41"/> 
+    <img alt="Forks" src="https://img.shields.io/github/forks/Rohit04121998/Rohit04121998?style=flat-square&labelColor=343b41"/>
 </p> -->
 
