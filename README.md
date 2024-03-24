@@ -36,9 +36,9 @@ I am also a graduate student at the University of Southern California pursuing a
 <h3>:milky_way: Find me</h3>
 
 <p align="center">
-    <a href="https://github.com/KayvanShah1" target="_blank">
+    <a href="https://github.com/Rohit04121998" target="_blank">
         <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-    </a><a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
+    </a><a href="https://www.linkedin.com/in/rohit-veeradhi/" target="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
     </a>
 </p>
