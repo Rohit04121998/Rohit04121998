@@ -1,9 +1,7 @@
 ![Header](static/github-header-image.png)
-<!-- <h1 align="center">Hi 👋, I'm Kayvan</h1>
-<h2 align="center">Data Engineer | AI, Data Science &amp; Cloud Computing enthusiast</h2> -->
 <h4>I am passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.
 
-I am also a graduate student at the University of Southern California pursuing a Master&#39;s in Applied Data Science.</h4>
+I am also a graduate student at the University of Southern California pursuing a Master&#39;s in Electrical Engineering (Machine Learning and Data Science).</h4>
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
