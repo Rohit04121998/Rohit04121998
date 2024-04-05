@@ -1,9 +1,7 @@
 ![Header](static/github-header-image.png)
 <!-- <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h2 align="center">Machine Learning &amp; Data Science Enthusiast</h2> -->
-<h4>I am passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.
-
-I am also a graduate student at the University of Southern California pursuing a Master&#39;s in Electrical Engineering (Machine Learning and Data Science).</h4>
+<h4>An aspiring enthusiast in Data Science and Machine Learning, driven by a passion for transforming innovative concepts into tangible solutions through coding. Passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.  Currently enrolled in a Master&#39;s program in Electrical Engineering with a specialization in Machine Learning and Data Science at USC, I'm keen on gaining hands-on experience in the dynamic realm of software development and machine learning.</h4>
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
