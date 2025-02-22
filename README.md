@@ -51,15 +51,13 @@
 
 <!-- FOOTER -->
 <!--START_SECTION:waka-->
-
-```txt
+```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 00:43:42 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 00:41:35 GMT+0000 (Coordinated Universal Time)<br />
 </p>
 <!-- <p align="center">
     <img src="https://github.com/Rohit04121998/Rohit04121998/workflows/README%20build/badge.svg" /> 
